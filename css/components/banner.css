@@ -1,0 +1,28 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+  color: white;
+}
+
+.container h1 {
+  text-shadow: 1px 1px 1px gray;
+}
+
+.container p {
+  color: rgb(200, 200, 200);
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.btn {
+  background-color: rgb(180, 60, 60);
+  padding: 15px 20px;
+  color: white;
+  border-radius: 25px;
+}
